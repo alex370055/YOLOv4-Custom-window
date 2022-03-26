@@ -3,5 +3,9 @@
 - ### 🌱 I’m currently learning AI
 
 - # Set up the environment.
+- 1.https://github.com/AlexeyAB/darknet#yolo-v4-v3-and-v2-for-windows-and-linux download and use.
+- 2.you also can use Git to download code
+- use cmd:`git clone https://github.com/AlexeyAB/darknet.git`
 - # How to train with GPU
 - 1.Train it first on 1 GPU for like **1000** iterations: **darknet.exe detector train cfg/tree.data cfg/yolov4tree.cfg yolov4.conv.137**
+- 2.Then stop and by using partially-trained model /backup/yolov4_1000.weights run training with multigpu (up to 4 GPUs): darknet.exe detector train cfg/tree.data cfg/yolov4tree.cfg /backup/yolov4_1000.weights
