@@ -17,6 +17,9 @@
 - Get CUDNN， After decompressing the compressed file, copy the data in it to `NVIDIA GPU Computing Toolkit / CUDA / Version Number`.
 
 - # How to train with GPU
-- 
 - 1.Train it first on 1 GPU for like **1000** iterations: **darknet.exe detector train cfg/tree.data cfg/yolov4tree.cfg yolov4.conv.137**
 - 2.Then stop and by using partially-trained model /backup/yolov4_1000.weights run training with multigpu (up to 4 GPUs): darknet.exe detector train cfg/tree.data cfg/yolov4tree.cfg /backup/yolov4_1000.weights
+- #  custom parameters
+- 1.find `C:\Users\User\Desktop\yolo\darknet-master\build\darknet\x64` you will find some `tree.txt`or`yolov4tree.cfg`
+- 2.you need to custom parameters.
+- ![avatar](C:\Users\User\Desktop\1.png)
