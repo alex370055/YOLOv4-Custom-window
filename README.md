@@ -2,8 +2,7 @@
 - 👀 I’m interested in AI and YOLO
 - 🌱 I’m currently learning AI
 
-
-<!--自述文件
+自述文件
 import os
 from google.colab import drive
 drive.mount('/content/gdrive')
@@ -83,7 +82,4 @@ Step9：將weights(best.pt)複製到ScaledYOLOv4-yolov4-csp文件中，將obj.na
 生成 answer.json 以在 Codalab 上提交
 Colab 鏈接：https ://colab.research.google.com/drive/1ZydftPlARDwjBYslWqYspbx88jjIczGL?usp=sharing
 
-圖片-
-alex370055/alex370055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+圖片
