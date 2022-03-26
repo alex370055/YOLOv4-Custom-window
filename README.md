@@ -22,4 +22,4 @@
 - #  custom parameters
 - 1.find `C:\Users\User\Desktop\yolo\darknet-master\build\darknet\x64` you will find some `tree.txt`or`yolov4tree.cfg`
 - 2.you need to custom parameters.
-- ![avatar](C:\Users\User\Desktop\1.png)
+- # implement main code
