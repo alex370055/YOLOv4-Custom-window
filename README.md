@@ -2,4 +2,4 @@
 - ### 👀 I’m interested in AI and YOLO
 - ### 🌱 I’m currently learning AI
 
--#__Set up the environment.__
+- # Set up the environment.
