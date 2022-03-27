@@ -3,17 +3,17 @@
 - ### 🌱 I’m currently learning AI
 
 - # Set up the environment.
-- ##step1:
+- ## step1:
 - 1.`https://github.com/AlexeyAB/darknet#yolo-v4-v3-and-v2-for-windows-and-linux` download and use.
 - 2.you also can use Git to download code
 - use cmd:`git clone https://github.com/AlexeyAB/darknet.git`
-- ##step2:
+- ## step2:
 - Get Visual Studio ,`https://visualstudio.microsoft.com/zh-hant/downloads/`,The 2019 version is relatively stable.
-- ##step3:
+- ## step3:
 - Get CUDA，`https://developer.nvidia.com/cuda-downloads`
-- ##step4:
+- ## step4:
 - Get OpenCV，`https://opencv.org/releases/`
-- ##step5:
+- ## step5:
 - Get CUDNN， After decompressing the compressed file, copy the data in it to `NVIDIA GPU Computing Toolkit / CUDA / Version Number`.
 
 - # How to train with GPU
